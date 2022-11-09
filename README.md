@@ -63,13 +63,13 @@ Find out more about [me](https://www.linkedin.com/in/mariebehzadi/) and feel fre
 </tr>
 <tr>
 <th colspan=2>
+<img width="250" height="0">
 <img width="30" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg"/>
 <img width="50" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vim.svg"/>  
 <img width="50" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/>
 <img width="40" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/drone-icon.svg"/>
 <img width="120" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/neovim.svg"/>
-<br />
-<img width="500" height="0">
+<img width="250" height="0">
 </th>
 </tr>
 </table>
