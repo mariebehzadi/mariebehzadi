@@ -11,6 +11,14 @@ Find out more about [me](https://www.linkedin.com/in/mariebehzadi/) and feel fre
 ## **Tech Stack**
 <table>
 <tr>
+<th align="center">
+<img width="441" height="1">
+</th>
+<th align="center">
+<img width="441" height="1">
+</th>
+</tr>
+<tr>
 <th align="center">Linux Distros</th>
 <th align="center">Machine Learning</th>
 </tr>
@@ -59,18 +67,18 @@ Find out more about [me](https://www.linkedin.com/in/mariebehzadi/) and feel fre
 </th>
 </tr>
 <tr>
-<th>Tools and Stuff</th>
-<th>System Programming Languages</th>
+<th align="center">Tools and Stuff</th>
+<th align="center">System Programming Languages</th>
 </tr>
 <tr>
-<th>
+<th align="center">
 <img width="30" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg"/>
 <img width="50" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vim.svg"/>  
 <img width="50" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/>
 <img width="40" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/drone-icon.svg"/>
 <img width="120" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/neovim.svg"/>
 </th>
-<th>
+<th align="center">
 <img width="30" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
 <img width="50" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg"/>  
 <img width="60" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/go.svg"/>
