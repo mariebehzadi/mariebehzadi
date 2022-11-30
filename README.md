@@ -86,6 +86,9 @@ Find out more about [me](https://www.linkedin.com/in/mariebehzadi/) and feel fre
 </tr>
 </table>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariebehzadi&show_icons=true&theme=transparent)
+
+
 <div align="left">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariebehzadi/)
