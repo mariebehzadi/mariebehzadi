@@ -59,17 +59,21 @@ Find out more about [me](https://www.linkedin.com/in/mariebehzadi/) and feel fre
 </th>
 </tr>
 <tr>
-<th colspan=2>Tools and Stuff</th>
+<th>Tools and Stuff</th>
+<th>System Programming Languages</th>
 </tr>
 <tr>
-<th colspan=2>
-<img width="250" height="0">
+<th>
 <img width="30" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg"/>
 <img width="50" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/vim.svg"/>  
 <img width="50" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker-icon.svg"/>
 <img width="40" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/drone-icon.svg"/>
 <img width="120" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/neovim.svg"/>
-<img width="250" height="0">
+</th>
+<th>
+<img width="30" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c.svg"/>
+<img width="50" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-plusplus.svg"/>  
+<img width="60" height="30" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/go.svg"/>
 </th>
 </tr>
 </table>
