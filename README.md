@@ -86,7 +86,9 @@ Find out more about [me](https://www.linkedin.com/in/mariebehzadi/) and feel fre
 </tr>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariebehzadi&show_icons=true&theme=transparent)
+![mariebehzadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariebehzadi&show_icons=true&theme=transparent)
+
+[![mariebehzadi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariebehzadi&layout=compact)](https://github.com/mariebehzadi/github-readme-stats)
 
 
 <div align="left">
