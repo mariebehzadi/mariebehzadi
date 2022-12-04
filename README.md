@@ -86,8 +86,8 @@ Find out more about [me](https://www.linkedin.com/in/mariebehzadi/) and feel fre
 </tr>
 </table>
 
-#### Github Status
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariebehzadi&show_icons=true&include_all_commits=true&theme=transparent&hide_border=true" alt="Marie's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariebehzadi&theme=transparent&hide_border=true&hide=jupyter notebook" /></a> |
+## **Github Status**
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariebehzadi&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true) | [![Marie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariebehzadi&theme=transparent&hide_border=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
 <div align="left">
