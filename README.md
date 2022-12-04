@@ -86,14 +86,14 @@ Find out more about [me](https://www.linkedin.com/in/mariebehzadi/) and feel fre
 </tr>
 </table>
 
-![mariebehzadi's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariebehzadi&show_icons=true&theme=transparent)
-
-![mariebehzadi's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariebehzadi&layout=compact)
-
+#### Github Status
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mariebehzadi&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Marie's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariebehzadi&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 <div align="left">
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariebehzadi/)
+[![Stackoverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6924692/marie-behzadi)
 [![telegram](https://img.shields.io/badge/mariebehzadi-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mariebehzadi/)
 [![gmail](https://img.shields.io/badge/mariebehzadi-CF463C.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariebehzadi@gmail.com)
 [![gitlab](https://img.shields.io/badge/mariebehzadi-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/mariebehzadi)
