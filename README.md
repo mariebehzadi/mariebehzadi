@@ -1,6 +1,6 @@
 ![](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header)
 
-### **Hello World!** 👋
+### **Hello, World!** 👋
 ## **I'm Marie Behzadi**
 My name is Maryam Behzadi but you can call me Marie. I am a Tech enthusiast and a GNU/Linux Lover. I've got my Bsc in Sofware Engineering and my Msc in Artificial Intelligence. 
 Currently I'm working as the co-founder and researcher at [Hiva IoT Company](https://hiva-iot.com/).
@@ -87,7 +87,7 @@ Find out more about [me](https://www.linkedin.com/in/mariebehzadi/) and feel fre
 </table>
 
 ## **Github Status**
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mariebehzadi&show_icons=true&theme=transparent&include_all_commits=true&hide_border=true&count_private=true) | [![Marie's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariebehzadi&theme=transparent&hide_border=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Marie's GitHub stats](https://github-readme-stats-marie.vercel.app/api?username=mariebehzadi&theme=transparent&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&include_orgs=true)](https://github.com/anuraghazra/github-readme-stats) | [![Marie's Top Langs](https://github-readme-stats-marie.vercel.app/api/top-langs/?username=mariebehzadi&hide_border=true&theme=transparent&layout=compact&langs_count=16&include_orgs=true&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- |
 
 <div align="left">
